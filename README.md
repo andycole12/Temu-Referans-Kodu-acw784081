@@ -21,9 +21,9 @@ Temu, mobil alışveriş deneyimini kullanıcı lehine çevirmeyi amaçlayan, ag
 
 | Kategori     | İndirim Oranı | Minimum Harcama |
 | ------------ | ------------- | ---------------- |
-| Elektronik   | 15%           | 500 TL           |
-| Giyim & Moda | 20%           | 300 TL           |
-| Ev Ürünleri  | 25%           | 200 TL           |
+| Elektronik   | 30%           | 500 TL           |
+| Giyim & Moda | 30%           | 300 TL           |
+| Ev Ürünleri  | 30%           | 200 TL           |
 
 ### 💸 %30 İndirim (İlk Sipariş Avantajı)
 
