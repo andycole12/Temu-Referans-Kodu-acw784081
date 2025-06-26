@@ -113,3 +113,5 @@ Evet, Temu’nun aktif olduğu tüm ülkelerde geçerlidir.
 ## Anahtar Kelimeler
 
 `temu indirim kodu`, `acw784081`, `temu kuponu`, `ücretsiz ürün`, `e
+
+https://bit.ly/460Zn23
